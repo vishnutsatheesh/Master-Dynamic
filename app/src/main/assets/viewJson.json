@@ -1,0 +1,169 @@
+{
+  "views": [
+    {
+      "widget": "android.widget.Button",
+      "properties": [
+        {
+          "name": "id",
+          "type": "",
+          "value": "testClick"
+        },
+        {
+          "name": "layout_width",
+          "type": "dimen",
+          "value": "wrap_content"
+        },
+        {
+          "name": "layout_height",
+          "type": "dimen",
+          "value": "wrap_content"
+        },
+        {
+          "name": "background",
+          "type": "color",
+          "value": "#ffffff"
+        },
+        {
+          "name": "gravity",
+          "type": "string",
+          "value": "center"
+        },
+        {
+          "name": "text",
+          "type": "string",
+          "value": "Done"
+        },
+        {
+          "name": "layout_gravity",
+          "type": "",
+          "value": "right"
+        },
+        {
+          "name": "padding",
+          "type": "dimen",
+          "value": "10dp"
+        },
+        {
+          "name": "layout_margin",
+          "type": "dimen",
+          "value": "100dp"
+        },
+        {
+          "name": "textColor",
+          "type": "color",
+          "value": "#008577"
+        }
+
+      ]
+    },
+    {
+      "widget": "android.widget.EditText",
+      "properties": [
+        {
+          "name": "id",
+          "type": "",
+          "value": "tesftClick"
+        },
+        {
+          "name": "layout_width",
+          "type": "dimen",
+          "value": "match_parent"
+        },
+        {
+          "name": "sasa",
+          "type": "integer",
+          "value": "password"
+        },
+        {
+          "name": "layout_height",
+          "type": "dimen",
+          "value": "wrap_content"
+        },
+        {
+          "name": "background",
+          "type": "color",
+          "value": "#ffffff"
+        },
+        {
+          "name": "gravity",
+          "type": "string",
+          "value": "left"
+        },
+        {
+          "name": "ethint",
+          "type": "string",
+          "value": "Name"
+        },
+        {
+          "name": "gravity",
+          "type": "",
+          "value": "center"
+        },
+        {
+          "name": "padding",
+          "type": "dimen",
+          "value": "10dp"
+        },
+        {
+          "name": "textColor",
+          "type": "color",
+          "value": "#008577"
+        }
+
+      ]
+    }
+  ,
+    {
+      "widget": "android.widget.Spinner",
+      "properties": [
+        {
+          "name": "id",
+          "type": "",
+          "value": "tesftClick"
+        },
+        {
+          "name": "layout_width",
+          "type": "dimen",
+          "value": "match_parent"
+        },
+        {
+          "name": "layout_height",
+          "type": "dimen",
+          "value": "wrap_content"
+        },
+        {
+          "name": "background",
+          "type": "color",
+          "value": "#ffffff"
+        },
+        {
+          "name": "gravity",
+          "type": "string",
+          "value": "left"
+        },
+        {
+          "name": "SPINNER_CONTENTS",
+          "type": "string",
+          "value": "Male,Female,Other"
+        },
+        {
+          "name": "gravity",
+          "type": "",
+          "value": "center"
+        },
+        {
+          "name": "padding",
+          "type": "dimen",
+          "value": "10dp"
+        },
+        {
+          "name": "textColor",
+          "type": "color",
+          "value": "#008577"
+        }
+
+      ]
+    }
+  ]
+}
+
